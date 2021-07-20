@@ -1,5 +1,5 @@
 # SmartFindViewById
-兼容Android Studio 4.2
+兼容Android Studio 4.2 <br/>
 该项目派生于早期的 [wangzailfm/GenerateFindViewById](https://github.com/wangzailfm/GenerateFindViewById), <br/>
 本项目基本上重构了原项目的所有代码，使得在一定程度上可以更方便地进行后期扩展。并在原项目基础上新增了智能查找布局文件，优化了展示界面，增加了 **I18N** 国际化支持等功能。<br/>
 同时也编写了多个可以在 idea plugin 项目中重用的 utils 方法。<br/>
